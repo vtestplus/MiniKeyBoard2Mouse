@@ -38,4 +38,4 @@
 ## 后记
 - 针对键盘，更换了部分的原来的键帽，让按键的意义更加明确，便于使用。
 
-![更换键帽](images/keyboard-final.jpg)
+![更换键帽](images/keyboard-final2.jpg)
